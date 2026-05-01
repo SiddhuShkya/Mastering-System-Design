@@ -6,6 +6,23 @@ This course takes you on a structured journey — starting from fundamental conc
 
 ---
 
+## 👨‍🏫 About the Instructor
+
+<table>
+  <tr>
+    <td width="180">
+      <img src="images/rahul.png" alt="Rahul Rajat Singh" width="160"/>
+    </td>
+    <td>
+      <strong>Rahul Rajat Singh</strong> is a solutions architect with 8+ years of experience building scalable, high-performance systems. A **Microsoft MVP** and **CodeProject MVP**, he combines deep technical expertise with a pragmatic approach to designing systems that handle changing requirements and complex challenges. 
+
+Author of **Mastering Entity Framework**, Rahul is passionate about mentoring the next generation of tech leaders and shaping future software architects. His teaching focuses on practical, production-grade thinking across technologies including **C#**, **ASP.NET**, **.NET Core**, and **Web API**, with a strong emphasis on driving agile best practices and empowering teams to build impactful, future-proof solutions.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📖 About This Course
 
 Throughout this course, you'll gain a deep understanding of **scalability**, **availability**, **reliability**, and **fault tolerance** — key principles that drive modern system design. You'll explore:
@@ -53,13 +70,3 @@ Whether you're a beginner or an experienced professional, this course will help 
 
 ---
 
-## 👨‍🏫 About the Instructor
-
-### Rahul Rajat Singh
-**Software Gardener | Principal Architect | Engineering Advisor & Mentor**
-
-*ex-CTO | ex-Microsoft | Microsoft MVP | CodeProject MVP*
-
-With a proven track record in designing and delivering scalable, high-performance systems, Rahul combines deep technical expertise with a pragmatic approach to solution architecture. As a **Microsoft MVP** and **CodeProject MVP**, he has made significant contributions to the engineering community and authored **Mastering Entity Framework** to help developers navigate complex system design challenges.
-
-Passionate about mentoring the next generation of tech leaders, Rahul is dedicated to shaping future software architects and developers in technologies such as **C#**, **ASP.NET**, **.NET Core**, and **Web API**. He focuses on driving agile best practices, fostering innovation, and empowering teams to build impactful, future-proof solutions.

@@ -39,6 +39,21 @@ Beyond the technical aspects, this course also focuses on **interview preparatio
 
 ---
 
+## 🎓 Course Structure
+
+- **Introduction** → Overview of system design and it's real-world importance.
+- **System Design Fundamentals** → Core concepts, architecture patterns, and trade-offs
+- **Scalability** → Handling growing traffic, load balancing, caching, and database sharding.
+- **Storage** → SQL Vs NoSQL, distributed databses, and data partition strategies.
+- **Performance** → Optimizing latency, throughput, and efficiency.
+- **Reliability** → Ensuring fault tolerance, high availability, and disaster recovery.
+- **Security** → Authentication, authorization, and data protection best practices.
+- **Putting it All Together** → Combining principles to design real-world systems.
+- **Case Studies** → Deep Dives into real-world architectures of companies like Netflix, WhatsApp, and Uber.
+- **Interview Preps** → Strategies to excel in system design interviews.
+
+---
+ 
 ## 🎯 What You'll Learn
 
 - **Understand Core Principles** – Learn scalability, availability, reliability, and performance to build efficient system architectures.

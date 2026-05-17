@@ -14,7 +14,7 @@ This course takes you on a structured journey — starting from fundamental conc
       <img src="images/rahul.png" alt="Rahul Rajat Singh" width="160"/>
     </td>
     <td>
-      <strong>Rahul Rajat Singh</strong> is a solutions architect with 8+ years of experience building scalable, high-performance systems. A <storng>Microsoft MVP</strong> and <storng>CodeProject MVP</strong>, he combines deep technical expertise with a pragmatic approach to designing systems that handle changing requirements and complex challenges. 
+      <strong>Rahul Rajat Singh</strong> is a solutions architect with 8+ years of experience building scalable, high-performance systems.
 
 Author of **Mastering Entity Framework**, Rahul is passionate about mentoring the next generation of tech leaders and shaping future software architects. His teaching focuses on practical, production-grade thinking across technologies including **C#**, **ASP.NET**, **.NET Core**, and **Web API**, with a strong emphasis on driving agile best practices and empowering teams to build impactful, future-proof solutions.
     </td>
